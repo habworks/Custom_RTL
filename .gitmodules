@@ -1,0 +1,9 @@
+[submodule "Interleave_Dual_LTC2315-12"]
+	path = Interleave_Dual_LTC2315-12
+	url = https://github.com/habworks/Interleave_Dual_LTC2315-12.git
+[submodule "Double_D_Sync"]
+	path = Double_D_Sync
+	url = https://github.com/habworks/Double_D_Sync.git
+[submodule "Debounce_Input"]
+	path = Debounce_Input
+	url = https://github.com/habworks/Debounce_Input.git
